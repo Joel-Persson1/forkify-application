@@ -14,3 +14,7 @@ Recipe application with custom recipe uploades.
 - User can only see their own recipes, not recipes from other users.
 - Store bookmark data in the browser using local storage.
 - On page load, read saved bookmarks from local storage and display.
+
+### View the project
+
+[Project link](https://forkify-joelpersson.netlify.app/)
